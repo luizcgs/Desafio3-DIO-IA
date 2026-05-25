@@ -1,8 +1,8 @@
-LECGS
+# LECGS
 Atue como um especialista em dados, para me ajudar a analisar alguns dados de vendas que estão em arquivos, e criaremos visões desses dados.
 
 
-ChatGPT
+# ChatGPT
 Perfeito. Posso atuar como especialista em dados para estruturar, analisar e visualizar seus dados de vendas.
 
 Consigo ajudar em etapas como:
@@ -39,11 +39,11 @@ Depois que eu analisar a estrutura dos dados, podemos criar visões como por exe
 Assim que enviar os arquivos, começo a análise e proponho as primeiras visualizações e insights.
 
 
-LECGS
+# LECGS
 Enviei o 3 arquivos "Meganium_Sales_Data_-_AliExpress.csv", "Meganium_Sales_Data_-_Etsy.csv" e "Meganium_Sales_Data_-_Shopee.csv".
 
 
-ChatGPT
+# ChatGPT
 Analisei e consolidei os 3 arquivos de vendas dos marketplaces:
 
 * AliExpress
@@ -125,12 +125,12 @@ Posso agora criar:
 * painel interativo em Excel.
 
 
-LECGS
+# LECGS
 para cada visão de resumo, criar um gráfico que demonstre de forma profissional os dados de forma visual, e fácil.
 E realizar as próximas 5 analises recomensadas para termos insights relevantes ao negócio.
 
 
-ChatGPT
+# ChatGPT
 Concluí a criação das análises visuais e do relatório executivo com gráficos profissionais e insights estratégicos do negócio.
 
 Relatório principal:
@@ -205,12 +205,12 @@ Próximos passos altamente recomendados:
 * Simulação de crescimento e metas.
 
 
-LECGS
+# LECGS
 Atualizar a planilha relatorio_vendas_meganium.xlsx, com os gráficos de cada resumo criado para completar o material.
 Criar os gráficos que demonstrem de forma profissional os dados de forma visual, e fácil.
 
 
-ChatGPT
+# ChatGPT
 Atualizei a planilha consolidada adicionando os gráficos profissionais diretamente em cada aba de resumo, deixando o material muito mais visual e executivo.
 
 A nova versão contém:
